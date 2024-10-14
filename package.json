@@ -1,5 +1,5 @@
 {
-    "name": "@jamlie/color-tags",
+    "name": "js-color-tags",
     "version": "1.0.0",
     "description": "A way to colorize text on the terminal using html-like tags",
     "main": "index.js",
