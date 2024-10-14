@@ -60,4 +60,3 @@ function parseText(text) {
 export function colorize(text) {
     return parseText(text);
 }
-//# sourceMappingURL=index.js.map

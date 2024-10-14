@@ -1,20 +1,28 @@
 {
-    "name": "color-tags",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "chalk": "^5.3.0",
-        "typescript": "^5.6.3"
-    },
-    "devDependencies": {
-        "@types/node": "^22.7.5"
-    }
+  "name": "color-tags",
+  "version": "1.0.0",
+  "description": "A way to colorize text on the terminal using html-like tags",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jamlie",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamlie/color-tags.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jamlie/color-tags/issues"
+  },
+  "homepage": "https://github.com/Jamlie/color-tags#readme"
 }
