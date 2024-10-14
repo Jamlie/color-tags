@@ -1,6 +1,6 @@
 {
     "name": "js-color-tags",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A way to colorize text on the terminal using html-like tags",
     "main": "index.js",
     "type": "module",
