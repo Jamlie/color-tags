@@ -17,6 +17,11 @@
     "devDependencies": {
         "@types/node": "^22.7.5"
     },
+    "files": [
+        "index.js",
+        "index.d.ts",
+        "README.md"
+    ],
     "publishConfig": {
         "access": "public"
     }
