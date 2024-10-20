@@ -1,0 +1,23 @@
+{
+    "name": "@jam-org/color-tags",
+    "version": "0.0.0-development",
+    "description": "A way to colorize text on the terminal using html-like tags",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "build": "tsc",
+        "semantic-release": "semantic-release"
+    },
+    "author": "Jamlie",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "typescript": "^5.6.3"
+    },
+    "devDependencies": {
+        "@types/node": "^22.7.5"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
